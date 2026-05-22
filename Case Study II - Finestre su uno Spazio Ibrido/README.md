@@ -1,8 +1,8 @@
-\# Case Study II - Finestre su uno Spazio Ibrido
+# Case Study II - Finestre su uno Spazio Ibrido
 
 
 
-\# Processing Units Files
+# Processing Units Files
 
 
 
@@ -14,7 +14,7 @@ Second convolver of each unit have a different file with scratched piano strings
 
 
 
-\# Example 1
+# Example 1
 
 
 
@@ -26,7 +26,7 @@ Convoluted Signal: First convolvers.
 
 
 
-\# Example 2
+# Example 2
 
 
 
@@ -38,7 +38,7 @@ Convoluted Signal: Second convolvers.
 
 
 
-\# Example 3
+# Example 3
 
 
 
